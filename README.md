@@ -2,6 +2,6 @@
 
 ### Windows Win32 Application
 
-**hellowindows** is the main entry file
+**hellowindows.cpp** is the main entry file
 
 **resource.h** and **timer.h** are included as header file
